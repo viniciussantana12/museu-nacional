@@ -30,3 +30,10 @@ O site é composto por uma estrutura semântica e organizada, com design respons
 - Galeria de imagens com layout simples
 - Layout responsivo básico
 
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
